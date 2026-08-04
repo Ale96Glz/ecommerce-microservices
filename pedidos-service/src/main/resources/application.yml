@@ -1,0 +1,7 @@
+server:
+  port: 8083
+
+spring:
+  application:
+    name: pedidos-service
+  # TODO: datasource, jpa, flyway, kafka, catalogo client
